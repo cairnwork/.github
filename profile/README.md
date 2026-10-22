@@ -6,6 +6,6 @@ An agent fixes a small bug in an isolated clone. The tests that judge the fix ar
 
 **Status:** pilot (2026-10-20 → 2026-11-16). Apache-2.0. Python ≥ 3.11. macOS sandbox today, Linux in progress. We publish only measured or drilled results; a preregistered A/B evaluation is in progress.
 
-- Source: https://github.com/James3014/cairnwork
+- Source: https://github.com/cairnwork/cairnwork
 - Project page: https://cairnwork.github.io
-- Security policy: https://github.com/James3014/cairnwork/blob/main/SECURITY.md
+- Security policy: https://github.com/cairnwork/cairnwork/blob/main/SECURITY.md
